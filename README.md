@@ -1,2 +1,2 @@
 # html-to-php
-converting HTML5 boilerplate to a PHP boilerplate
+based on the HTML5 Boilerplate at https://html5boilerplate.com/
